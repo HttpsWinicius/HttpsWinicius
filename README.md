@@ -1,5 +1,5 @@
 <h2> Visit my workplace in the QR code below <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/ihkv9HX55c7hVdClbc/giphy.gif" width="250"/>
 
 [![My Linkedin](https://generator-qrcode.vercel.app/api?url=https://www.nvoip.com.br/)](https://www.nvoip.com.br)
 
