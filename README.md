@@ -1,4 +1,7 @@
-[![My Linkedin](https://generator-qrcode.vercel.app/api?url=https://www.linkedin.com/in/winicius-dev/)](https://www.linkedin.com/in/winicius-dev/)
+<h2> Visit my workplace in the QR code below <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+[![My Linkedin](https://generator-qrcode.vercel.app/api?url=https://www.nvoip.com.br/)](https://www.nvoip.com.br)
 
 <h2> Hey there! I'm Winicius Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
