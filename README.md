@@ -1,4 +1,4 @@
-<h2> Visit my workplace in the QR code below <img src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif" width="25"></h2>
+<h2> Visit my workplace in the QR code below <img src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif" width="100"></h2>
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/l0LpCwwuUEfTxGTBSB/giphy.gif" width="250"/>
 
 [![My Linkedin](https://generator-qrcode.vercel.app/api?url=https://www.nvoip.com.br/)](https://www.nvoip.com.br)
