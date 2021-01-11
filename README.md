@@ -22,7 +22,7 @@
 - 💻 &nbsp; Java | Php | Python | TypeScript
 - 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; Android Studio | NetBeans | Visual Studio code | Eclipse | Git | Sublime
+- 🔧 &nbsp; Android Studio | NetBeans | Visual Studio code | Eclipse | Git | Sublime | Postman
 
 <br>
 
