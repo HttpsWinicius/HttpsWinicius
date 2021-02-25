@@ -19,10 +19,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Php | Python | TypeScript
+- 💻 &nbsp; Java | Php | Python | TypeScript | Lua 
 - 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap
-- 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; Android Studio | NetBeans | Visual Studio code | Eclipse | Git | Sublime | Postman
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Android Studio | NetBeans | Visual Studio code | Eclipse | Git | Sublime | Postman | Tomcat | Apache
 
 <br>
 
