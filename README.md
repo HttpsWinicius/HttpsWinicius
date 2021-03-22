@@ -20,10 +20,10 @@
 <p>
 <br>
 <p>
-    <a href="https://in.linkedin.com/in/hargun-singh-sahni-519baa166">
+    <a href="https://www.linkedin.com/in/winicius-dev/" target="_blank">
       <img align="left" alt="Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
     </a>
-    <a href="mailto:hargunsinghsahni@gmail.com">
+    <a href="mailto:winiciussouzadev@gmail.com" target="_blank">
       <img align="left" alt="Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
     </a>
 </p>
