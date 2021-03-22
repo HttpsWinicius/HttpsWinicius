@@ -9,7 +9,7 @@
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; I am currently studying information system and I intend to do a master's and doctorate in technology
   - 💼 &nbsp; My professional career is to be a Development Leader and full stack programmer.
-  - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+  - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
   - ✍️ &nbsp; I like to watch anime read love physics and astronomy.
   - 🧠 &nbsp; Our biggest weakness is in giving up. The surest way to win is to try one more time. 
 </details>
