@@ -1,17 +1,18 @@
-<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width:50px;">
-
-<h2> Hey there! I'm Winicius Souza. <img alt="Person coding gif" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="70"></h2>
+<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width:15px;">
 
 <details>
-<summary><i> Click <b> Here </b> to know about me!</i></summary>  
+<summary><i> Click <b> Here </b></i></summary>  
 
-  - 🔭 &nbsp; I am currently improving my hard skills and my soft skills.
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; I am currently studying information system and I intend to do a master's and doctorate in technology
-  - 💼 &nbsp; My professional career is to be a Development Leader and full stack programmer.
-  - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
-  - ✍️ &nbsp; I like to watch anime read love physics and astronomy.
-  - 🧠 &nbsp; Our biggest weakness is in giving up. The surest way to win is to try one more time. 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
+</div>
 </details>
 <br>
 <p>
@@ -27,3 +28,5 @@
       <img align="left" alt="Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
     </a>
 </p>
+
+  ![Snake animation](https://github.com/WiniciusNvoip/WiniciusNvoip/blob/output/github-contribution-grid-snake.svg)
