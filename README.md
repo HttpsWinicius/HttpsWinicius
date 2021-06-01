@@ -16,8 +16,8 @@
 </details>
 <br>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=WiniciusNvoip&include_all_commits=true&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiniciusNvoip&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=WiniciusNvoip&include_all_commits=true&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiniciusNvoip&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 <p>
 <br>
 <p>
@@ -28,5 +28,3 @@
       <img align="left" alt="Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
     </a>
 </p>
-
-  ![Snake animation](https://github.com/WiniciusNvoip/WiniciusNvoip/blob/output/github-contribution-grid-snake.svg)
