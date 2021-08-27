@@ -32,8 +32,8 @@
 </details>
 <br>
 <p>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=WiniciusNvoip&include_all_commits=true&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiniciusNvoip&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=HttpsWinicius&include_all_commits=true&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HttpsWinicius&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 <p>
 <br>
 <p>
