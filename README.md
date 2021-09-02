@@ -1,4 +1,4 @@
-<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width:15px;">
+<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width:350px;">
 
 <details>
 <summary><i> I am looking for the <b>Full Stack</b> side of strength.</i></summary>  
