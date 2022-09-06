@@ -1,6 +1,6 @@
 <img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width:350px;">
 
-<h3 align="center">I'm a full stack and junior developer in DevOps</h3>
+<h3 align="center">I'm a Software Development Engineer and junior in DevOps</h3>
 
 - 🔭 I’m currently working on **java, reactJS**
 
