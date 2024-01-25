@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a Software Development Engineer and junior in DevOps</h3>
 
-- 🔭 I’m currently working on **Java 8, 11 e 17, ReactJS, MariaDB, PostgreSQL and OracleDB **
+- 🔭 I’m currently working on **Java 8, 11 e 17, ReactJS, MariaDB, PostgreSQL and OracleDB**
 
 - 🌱 I’m currently learning **AWS, Azure, Python and Go**
 
