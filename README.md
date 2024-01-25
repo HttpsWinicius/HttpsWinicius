@@ -2,19 +2,19 @@
 
 <h3 align="center">I'm a Software Development Engineer and junior in DevOps</h3>
 
-- 🔭 I’m currently working on **java, reactJS**
+- 🔭 I’m currently working on **Java 8, 11 e 17, ReactJS, MariaDB, PostgreSQL and OracleDB **
 
-- 🌱 I’m currently learning **amazon web services, nodeJS, react native and Go**
+- 🌱 I’m currently learning **AWS, Azure, Python and Go**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/winicius-dev/details/projects/](https://www.linkedin.com/in/winicius-dev/details/projects/)
 
-- 💬 Ask me about **java, reactJS, aws clound**
+- 💬 Ask me about **Java, ReactJS, AWS Clound and Database**
 
 - 📫 How to reach me **winiciussouzadev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/winicius-dev/details/experience/](https://www.linkedin.com/in/winicius-dev/details/experience/)
 
-- ⚡ Fun fact **I love gym and to watch movies and series and practice programming**
+- ⚡ Fun fact **I love living and making the world a better place**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
