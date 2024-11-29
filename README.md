@@ -1,10 +1,10 @@
 <img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width:350px;">
 
-<h3 align="center">I'm a Software Development Engineer and junior in DevOps</h3>
+<h3 align="center">I'm a Software Development Engineer</h3>
 
-- 🔭 I’m currently working on **Java 8, 11 e 17, ReactJS, MariaDB, PostgreSQL and OracleDB**
+- 🔭 I’m currently working on **Java 8, 11 e 17, NextJS, MariaDB, PostgreSQL and Oracle Exadata**
 
-- 🌱 I’m currently learning **AWS, Azure, Python and Go**
+- 🌱 I’m currently learning **AWS, Azure, Python and PySpark**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/winicius-dev/details/projects/](https://www.linkedin.com/in/winicius-dev/details/projects/)
 
