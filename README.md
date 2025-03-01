@@ -2,13 +2,13 @@
 
 <h3 align="center">I'm a Software Development Engineer</h3>
 
-- 🔭 I’m currently working on **Java 8, 11 e 17, NextJS, MariaDB, PostgreSQL and Oracle Exadata**
+- 🔭 I’m currently working on **Java 8, 11, 17 e 21 NextJS, MariaDB, PostgreSQL and Oracle Exadata**
 
 - 🌱 I’m currently learning **AWS, Azure, Python and PySpark**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/winicius-dev/details/projects/](https://www.linkedin.com/in/winicius-dev/details/projects/)
 
-- 💬 Ask me about **Java, ReactJS, AWS Clound and Database**
+- 💬 Ask me about **Java, AWS Clound and Database**
 
 - 📫 How to reach me **winiciussouzadev@gmail.com**
 
